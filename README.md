@@ -20,9 +20,8 @@ This project was built using the following technologies:
 
 # Screenshot
 
- <img src="https://github.com/AliAtherAyyubi/eCommerce-Flutter-App/blob/main/Screenshots/Auth.png" alt="Screenshot 1"/> 
+ <img src="https://github.com/AliAtherAyyubi/Chair-Store-Flutter-App/blob/main/Screenshots/chair%20store%20app.png" alt="Screenshot 1"/> 
 
- <img src="https://github.com/AliAtherAyyubi/eCommerce-Flutter-App/blob/main/Screenshots/Features.png" alt="Screenshot 1"/>
 
 
 
